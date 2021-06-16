@@ -2,8 +2,8 @@
 
 Computer Engineering Student At Amirkabir University of Technology.
 >Connect with me
- 1. Instagram : [its_.alireza_]
- 2. Telegram :[zare_w] 
+ 1. Instagram : its_.alireza_
+ 2. Telegram zare_w
  3. Email : azare242@gmail.com
 
 
