@@ -1,8 +1,8 @@
 # Hello , I am alireza zare
 
 Computer Engineering Student At Amirkabir University of Technology.
-i know c , c++ , java m python , html css , javascript
-and learning django ,MySQL , React , node.js Telegraf Library for developing telegram bots  
+i know many languages but im good at c , c++ , python.
+i am learning Machine learning, researching deep learning, and intrested in Reinforcement Learning.
 >Connect with me
  1. Instagram : its_.alireza_
  2. Telegram : zare_w
