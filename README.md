@@ -1,8 +1,7 @@
-# Hello , I am alireza zare
+## Hello , I am Alireza Zare Z.
 
-Computer Engineering Student At Amirkabir University of Technology.
-i know many languages but im good at c , c++ , python.
-i am learning Machine learning, researching deep learning, and intrested in Reinforcement Learning.
+# You can See My Resume Here:
+(Alireza Zare Z. CV)[https://azare242.github.io/mycv/)
 >Connect with me
  1. Instagram : its_.alireza_
  2. Telegram : zare_w
