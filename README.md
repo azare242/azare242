@@ -1,7 +1,7 @@
 ## Hello , I am Alireza Zare Z.
 
 # You can See My Resume Here:
-(Alireza Zare Z. CV)[https://azare242.github.io/mycv/]
+[Alireza Zare Z. CV](https://azare242.github.io/mycv/)
 >Connect with me
  1. Instagram : its_.alireza_
  2. Telegram : zare_w
